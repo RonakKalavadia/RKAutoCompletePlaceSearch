@@ -23,3 +23,7 @@ or
 2. Open terminal and give the path of my project and install google map pod into my project(EX. -> pod 'GoogleMaps').
 
 <B>Enjoy it!!!</B>
+
+# Screenshots
+
+<img src="https://cloud.githubusercontent.com/assets/18029730/13986715/efe5eeb6-f129-11e5-8ea7-cd215f1a4757.png" width="90%"></img> <img src="https://cloud.githubusercontent.com/assets/18029730/13986751/22e2e40e-f12a-11e5-86d6-15ce408d4d89.png" width="90%"></img> 
