@@ -18,7 +18,7 @@ Easy to use Autocomplete place search with google place API
 
 2. Add Google map SDK manually
 
-OR
+or
 
 2. Open terminal and give the path of my project and install google map pod into my project(EX. -> pod 'GoogleMaps').
 
